@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(180deg, #fdfdfd, #a3a3e7);
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: rgb(17, 17, 160);
+    background-image: linear-gradient(180deg, rgb(8, 10, 54),rgb(17, 17, 160));
+    margin: auto;
+    padding: 10px;
+    border: solid 2px purple;
+    color: rgb(214, 79, 79);
+}
+main{
+    padding: 50px 0px 50px 0px;
+}
+footer{
+    border: solid 2px rgb(0, 0, 81);
+    background-image: linear-gradient(180deg, rgb(133, 192, 192), #3939c9);
+    font-size: 20px;
+}
+button{
+    background-color: none;
+}
+button:hover{
+    background-color: yellow;
+}
+a:hover{
+    color: red;
+}
